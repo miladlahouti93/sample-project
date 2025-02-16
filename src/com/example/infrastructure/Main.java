@@ -1,6 +1,6 @@
-package com.example.controller.infrastructure;
+package com.example.infrastructure;
 
-import com.example.controller.common.BeanContext;
+import com.example.common.BeanContext;
 import com.example.controller.Controller;
 
 public class Main {

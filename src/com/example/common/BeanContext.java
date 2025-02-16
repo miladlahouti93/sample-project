@@ -1,7 +1,7 @@
-package com.example.controller.common;
+package com.example.common;
 
-import com.example.controller.annotation.Autowired;
-import com.example.controller.annotation.Component;
+import com.example.annotation.Autowired;
+import com.example.annotation.Component;
 
 import java.io.File;
 import java.lang.reflect.Field;
